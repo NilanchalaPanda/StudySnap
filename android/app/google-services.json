@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237151616877",
+    "project_id": "studysnap-8be5f",
+    "storage_bucket": "studysnap-8be5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237151616877:android:3fc7bd9a5110fbe20ee464",
+        "android_client_info": {
+          "package_name": "com.example.quizet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA44xChg9A0su0RbXxAKZyywvKsAoBmmnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
